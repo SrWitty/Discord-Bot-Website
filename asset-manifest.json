@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Discord-Bot-Website/static/css/main.d166460e.css",
-    "main.js": "/Discord-Bot-Website/static/js/main.31f182c6.js",
+    "main.js": "/Discord-Bot-Website/static/js/main.546ab2d2.js",
     "static/js/453.c5908a82.chunk.js": "/Discord-Bot-Website/static/js/453.c5908a82.chunk.js",
     "static/media/fa-solid-900.ttf": "/Discord-Bot-Website/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/Discord-Bot-Website/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/Discord-Bot-Website/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Discord-Bot-Website/index.html",
     "main.d166460e.css.map": "/Discord-Bot-Website/static/css/main.d166460e.css.map",
-    "main.31f182c6.js.map": "/Discord-Bot-Website/static/js/main.31f182c6.js.map",
+    "main.546ab2d2.js.map": "/Discord-Bot-Website/static/js/main.546ab2d2.js.map",
     "453.c5908a82.chunk.js.map": "/Discord-Bot-Website/static/js/453.c5908a82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d166460e.css",
-    "static/js/main.31f182c6.js"
+    "static/js/main.546ab2d2.js"
   ]
 }
